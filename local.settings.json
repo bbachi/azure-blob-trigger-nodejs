@@ -1,0 +1,16 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=aautipdf;AccountKey=mhoYa5WaLU9JQNyRxgxC5DGoeuEYhy23Zwz0VOIGdMfvw+CrK1PbGzA1fvseQGuW9YkYGVZ+qEIo+AStwHjCFg==;EndpointSuffix=core.windows.net",
+      "FUNCTIONS_WORKER_RUNTIME": "node",
+      "COSMOSDB_HOST": "trigger-mongodb.mongo.cosmos.azure.com",
+      "COSMOSDB_PORT": "10255",
+      "COSMOSDB_DBNAME": "Ptrigger-mongodb",
+      "COSMOSDB_USER": "trigger-mongodb",
+      "COSMOSDB_PASSWORD": "w1NmYbCk4dvylmKgkVjshkYhGd64j62mbUnHcagjxLP6jRhT0EmMXu51GdgkNQZ4RRGZsdZ90l5BhFQW0byWaQ==",
+      "BLOB_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=csvtriggerstorageaccount;AccountKey=Gg3BRYxO/u3r28QYuB5NlIHQI1A85emaNRUFiRZCsc0L0GwGkpDdxoLW9IDUMfSIhL5x8E3sXFhc+AStpuW+bg==;EndpointSuffix=core.windows.net"
+    },
+    "Host": {
+      "CORS": "*"
+    }
+  }

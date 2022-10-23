@@ -1,0 +1,11 @@
+{
+    "bindings": [
+      {
+        "type": "eventGridTrigger",
+        "name": "eventGridEvent",
+        "direction": "in",
+        "path": "sample-csv"
+      }
+    ],
+    "scriptFile": "../dist/trg-csv-reader/index.js"
+  }
